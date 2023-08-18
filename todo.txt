@@ -1,0 +1,7 @@
+(*)registreren en inloggen. 
+    gebruik bcrypt
+
+( )lijsten kunnen toevoegen en verwijderen.
+    getters en setters in klasse
+
+() kunnen taken aan een bepaalde lijst toevoegen.
