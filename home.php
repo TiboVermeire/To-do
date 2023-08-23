@@ -7,8 +7,6 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-// Voer andere acties uit voor de homepagina hier
-
 ?>
 
 <!DOCTYPE html>
@@ -20,7 +18,6 @@ if (!isset($_SESSION['user_id'])) {
 </head>
 <body>
     <h1>Welcome to the Home Page!</h1>
-    <!-- Voeg de inhoud van de homepagina hier toe -->
 
     <a href="logout.php">Logout</a>
 </body>
