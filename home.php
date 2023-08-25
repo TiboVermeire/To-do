@@ -18,6 +18,7 @@ if (!isset($_SESSION['user_id'])) {
 </head>
 <body>
     <h1>Welcome to the Home Page!</h1>
+    <a href="lists.php">Go to lists </a>
 
     <a href="logout.php">Logout</a>
 </body>

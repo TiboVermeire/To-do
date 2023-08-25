@@ -5,3 +5,23 @@
     getters en setters in klasse
 
 () kunnen taken aan een bepaalde lijst toevoegen.
+
+()taken verwijderen uit een lijst
+
+()commentaren achterlaten op een taak (ajax)
+
+()taken markeren als done of todo
+
+()kijken hoeveel dagen een taak nog rest 
+
+()taken worden in volgorde volgens deadline getoond.(meest dringend staat bovenaan.)
+
+level 2 score 
+
+()taken kunnen sorteren op titel of deadline
+
+()bestand kunnen uploaden en linken aan een todo-item
+
+()gekoppelde bestanden kunnen verwijderen.
+
+()geen dubbele taken toevoegen (eenzelfde naam) aan eenzelfde lijst.
